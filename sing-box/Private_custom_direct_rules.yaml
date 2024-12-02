@@ -1,6 +1,6 @@
 # 内容：私有自定义规则
 # 类型：直连
-# 数量：23条
+# 数量：1条
 payload:
   #lan-domain
   - DOMAIN-REGEX,lan-[a-z]+.liaofei.org
