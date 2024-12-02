@@ -1,0 +1,4 @@
+payload:
+  # 内容：自有域名集合（非代理）
+  # contain：liaofei.org
+  - 'lan-*.liaofei.org'
