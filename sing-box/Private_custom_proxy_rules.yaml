@@ -1,6 +1,6 @@
 # 内容：私有自定义规则
 # 类型：代理
-# 数量：23条
+# 数量：1条
 payload:
   #tradingview
   - DOMAIN-SUFFIX,tradingview.com
